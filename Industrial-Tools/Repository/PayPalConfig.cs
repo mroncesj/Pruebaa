@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-
+//Pago por paypal
 namespace Industrial_Tools.Repository
 {
     public class PayPalConfig

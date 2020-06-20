@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-
+//Atributos del Carrito
 namespace Industrial_Tools.Models
 {
     public class CarritoModel

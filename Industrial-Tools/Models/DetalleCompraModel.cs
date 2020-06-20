@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-
+//Atributos del Pedido del cliente
 namespace Industrial_Tools.Models
 {
     public class DetalleCompraModel
